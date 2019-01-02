@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.168
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ef_CF1", "Ef_CF1\Ef_CF1.csproj", "{45496E10-8484-472F-875B-45F3FC221271}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KutuphaneKiralamaSistemi", "KutuphaneKiralamaSistemi\KutuphaneKiralamaSistemi.csproj", "{5EC2C537-0CD0-4ED8-A755-2FAD1C172BB5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{45496E10-8484-472F-875B-45F3FC221271}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45496E10-8484-472F-875B-45F3FC221271}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{45496E10-8484-472F-875B-45F3FC221271}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{45496E10-8484-472F-875B-45F3FC221271}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5EC2C537-0CD0-4ED8-A755-2FAD1C172BB5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5EC2C537-0CD0-4ED8-A755-2FAD1C172BB5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5EC2C537-0CD0-4ED8-A755-2FAD1C172BB5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5EC2C537-0CD0-4ED8-A755-2FAD1C172BB5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E2B8C069-E4F6-4749-955E-A514B218EB3D}
+	EndGlobalSection
+EndGlobal
